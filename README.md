@@ -1,8 +1,10 @@
-<h2> Heya, I'm Cherry! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</br><em>A Proactive Software Engineer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> </em></p>
+<h2> Heya, I'm Cherry! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVtdDNvdXFrcHJzcWRwanljaDgxZWE3cDRtand6OXp0ZmI1bzJ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="60"></h2>
+</br><em>A Proactive Software Engineer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> </em></p>
 
 
-### <img src="https://media.giphy.com/media/fDCH4QFi73SEQqapBp/giphy.gif" width="50"> A little more about me...  
+### 🌻🌻 A little more about me...  
+
+
 
 ```javascript
 const cherry = {
@@ -14,7 +16,9 @@ const cherry = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVtdDNvdXFrcHJzcWRwanljaDgxZWE3cDRtand6OXp0ZmI1bzJ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+<em><img src="https://media.giphy.com/media/pODllU6rY4mBo46HBB/giphy.gif" width="30"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
