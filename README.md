@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Heya, I'm Cherry! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+</br><em>A Proactive Software Engineer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> </em></p>
 
-<!--
-**heyacherry/heyacherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/fDCH4QFi73SEQqapBp/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const cherry = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, GraphQL],
+  framework: [React, NextJS, NestJS, Node, TailwindCSS, Styled-Components, Jest],
+  ecosystems: [Redux, Zustand, etherJS/web3JS, TypeORM, postgresql, dynamdb, Storybook, Jest, Docker],
+  challenge: "Be humble 🌱 Be nice 🌻 Be happy 🌟"
+}
+```
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVtdDNvdXFrcHJzcWRwanljaDgxZWE3cDRtand6OXp0ZmI1bzJ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
